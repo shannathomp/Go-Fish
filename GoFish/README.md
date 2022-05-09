@@ -2,4 +2,4 @@
 
 ## Wireframe
 
-## Descriptiong
+## Description
