@@ -19,6 +19,10 @@ This is the website to my wireframe.
 
 ## Explanations of specific Technologies 
 ### Approach Taken
+my first approach was to create a midspace for the game and add some ads. 
 ## Unsolved Problems
+my unsolved problem was to get the cards to draw a deck and go fish.
+
 ## Link to Hosted Site
 ## Installation Instructions
+no installation can play online
