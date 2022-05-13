@@ -1,5 +1,5 @@
 ## head
-Go Fish Game
+Go Fish Game. Now BlackJack Game
 
 ## Description
 The Go Fish Game is designed to help, introduce, and interest the young audience into the world of finance.
